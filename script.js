@@ -11,7 +11,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
   } else {
     //se tiver dark mode, manter a image normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/Avatar.png")
   }
   /* if (html.classList.contains("ligth")) {
     html.classList.remove("ligth")
